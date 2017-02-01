@@ -1,4 +1,4 @@
-* add dropbox link 
+* add dropbox link
 
 clear all
 set more off
@@ -9,3 +9,5 @@ xtreg price market.i, robust
 
 * does this create a conflict?
 * does that work now? person B
+
+reg parenting under trump, white 
