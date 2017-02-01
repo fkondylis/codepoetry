@@ -8,3 +8,4 @@ reg price distance, robust
 xtreg price market.i, robust
 
 * does this create a conflict?
+* does that work now? person B
